@@ -1,0 +1,6 @@
+Name=TestTwo
+Author=hotdogporridge
+Message=https://raw.githubusercontent.com/wrezelalex/testing/master/message
+CementFile=https://raw.githubusercontent.com/wrezelalex/testing/master/TestTwo.cmt
+Links=https://raw.githubusercontent.com/wrezelalex/testing/master/TestTwo.dll
+LatestVersion=https://raw.githubusercontent.com/wrezelalex/testing/master/version
